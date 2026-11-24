@@ -1,0 +1,40 @@
+
+--- COMMAND: /home/sergeykanzhelev/.local/share/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/lib-volume-populator --repository-devstats=kubernetes-csi/lib-volume-populator --period-devstats=y --dryrun ---
+Running script : 11-24-2026 19:29:45
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_lib-volume-populator/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_lib-volume-populator/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_lib-volume-populator/OWNERS_ALIASES
+Found 2 unique aliases
+Found 17 unique users
+.........
+
+
+>>>>> Contributions from kubernetes-csi/lib-volume-populator devstats repo and kubernetes-csi/lib-volume-populator github repo : 3
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+dannawang0221 : 4 : 3 
+sunnylovestiramisu : 9 : 3 
+xing-yang : 2 : 6 
+
+
+>>>>> Missing Contributions in kubernetes-csi/lib-volume-populator (devstats == 0): 14
+RaunakShah
+andyzhangx
+bswartz
+carlory
+ggriffiths
+gnufied
+humblec
+j-griffith
+jingxu97
+jsafrane
+mauriciopoppe
+msau42
+pohly
+saad-ali
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/lib-volume-populator (GH pr comments <= 10 && devstats <=20): 3
+dannawang0221
+sunnylovestiramisu
+xing-yang
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

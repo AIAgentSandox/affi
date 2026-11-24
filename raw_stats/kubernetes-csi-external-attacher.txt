@@ -1,0 +1,41 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/external-attacher --repository-devstats=kubernetes-csi/external-attacher --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:55:40
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_external-attacher/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_external-attacher/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_external-attacher/OWNERS_ALIASES
+Found 2 unique aliases
+Found 15 unique users
+..............
+
+
+>>>>> Contributions from kubernetes-csi/external-attacher devstats repo and kubernetes-csi/external-attacher github repo : 7
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+jsafrane : 38 : 46 
+andyzhangx : 16 : 5 
+xing-yang : 5 : 7 
+carlory : 3 : 1 
+mauriciopoppe : 2 : 5 
+gnufied : 1 : 3 
+humblec : 1 : 2 
+
+
+>>>>> Missing Contributions in kubernetes-csi/external-attacher (devstats == 0): 8
+RaunakShah
+ggriffiths
+j-griffith
+jingxu97
+msau42
+pohly
+saad-ali
+sunnylovestiramisu
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/external-attacher (GH pr comments <= 10 && devstats <=20): 6
+andyzhangx
+carlory
+gnufied
+humblec
+mauriciopoppe
+xing-yang
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

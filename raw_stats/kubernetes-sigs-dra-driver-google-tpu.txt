@@ -1,0 +1,23 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/dra-driver-google-tpu --repository-devstats=kubernetes-sigs/dra-driver-google-tpu --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:38:54
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_dra-driver-google-tpu/OWNERS
+Found 0 unique aliases
+Found 4 unique users
+....
+
+
+>>>>> Contributions from kubernetes-sigs/dra-driver-google-tpu devstats repo and kubernetes-sigs/dra-driver-google-tpu github repo : 4
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+troychiu : 176 : 25 
+aojea : 31 : 16 
+mortent : 26 : 21 
+johnbelamaric : 1 : 2 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/dra-driver-google-tpu (devstats == 0): 0
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/dra-driver-google-tpu (GH pr comments <= 10 && devstats <=20): 1
+johnbelamaric
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

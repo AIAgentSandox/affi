@@ -1,0 +1,78 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/kueue --repository-devstats=kubernetes-sigs/kueue --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:42:23
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/.github/actions/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/.github/workflows/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/CHANGELOG/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/experimental/kueue-populator/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/experimental/kueue-priority-booster/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/experimental/skills/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/kueuectl/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/kueuectl-docs/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/cmd/kueueviz/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/hack/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/hack/releasing/krew-release-bot/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/hack/testing/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/config/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/admissionchecks/multikueue/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/concurrentadmission/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/jobframework/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/jobs/deployment/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/jobs/leaderworkerset/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/jobs/pod/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/controller/jobs/statefulset/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/util/testing/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/util/testingjobs/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/util/tlsconfig/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/webhooks/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/pkg/workload/concurrentadmission/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/site/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/site/content/en/docs/reference/kubectl-kueue/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/site/content/en/v0.19/docs/reference/kubectl-kueue/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/site/content/en/v0.20/docs/reference/kubectl-kueue/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/site/content/zh-CN/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/test/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/test/e2e/kueueviz/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/test/integration/singlecluster/controller/concurrentadmission/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/test/integration/singlecluster/kueuectl/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kueue/OWNERS_ALIASES
+Found 28 unique aliases
+Found 23 unique users
+.................................
+
+
+>>>>> Contributions from kubernetes-sigs/kueue devstats repo and kubernetes-sigs/kueue github repo : 21
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+mimowo : 16133 : 6001 
+tenzen-y : 5880 : 2622 
+mbobrovskyi : 5419 : 2155 
+sohankunkerkar : 2273 : 513 
+olekzabl : 1160 : 152 
+vladikkuzn : 814 : 220 
+Singularity23x0 : 1901 : 177 
+kannon92 : 1372 : 449 
+kshalot : 1256 : 227 
+henry3260 : 644 : 142 
+j-skiba : 950 : 140 
+pajakd : 661 : 154 
+ivnovakov : 450 : 127 
+apullo777 : 778 : 99 
+amy : 614 : 103 
+reruno : 363 : 94 
+pbundyra(PBundyra) : 181 : 87 
+mykysha : 165 : 70 
+danylott : 486 : 69 
+windsonsea : 26 : 50 
+my-git9 : 21 : 5 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/kueue (devstats == 0): 2
+moficodes
+trasc
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/kueue (GH pr comments <= 10 && devstats <=20): 0
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

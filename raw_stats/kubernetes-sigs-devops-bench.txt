@@ -1,0 +1,24 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/devops-bench --repository-devstats=kubernetes-sigs/devops-bench --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:37:59
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_devops-bench/OWNERS
+Found 0 unique aliases
+Found 6 unique users
+.............
+
+
+>>>>> Contributions from kubernetes-sigs/devops-bench devstats repo and kubernetes-sigs/devops-bench github repo : 6
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+isadominguez314 : 561 : 55 
+itssimrank : 457 : 68 
+eugeneng04 : 303 : 40 
+janetkuo : 211 : 67 
+jessie1111101 : 768 : 58 
+pradeepvrd : 387 : 55 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/devops-bench (devstats == 0): 0
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/devops-bench (GH pr comments <= 10 && devstats <=20): 0
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

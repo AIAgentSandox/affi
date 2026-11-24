@@ -1,0 +1,36 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes/apiextensions-api --repository-devstats=kubernetes/apiextensions-api --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:49:08
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes_apiextensions-api/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes_apiextensions-api/pkg/apis/OWNERS
+Found 0 unique aliases
+Found 9 unique users
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes/apiextensions-api --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:49:08
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes_apiextensions-api/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes_apiextensions-api/pkg/apis/OWNERS
+Found 0 unique aliases
+Found 9 unique users
+......
+
+
+>>>>> Contributions from kubernetes/kubernetes devstats repo and kubernetes/apiextensions-api github repo : 6
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+jpbetz : 1622 : 5 
+jefftree(Jefftree) : 648 : 1 
+sttts : 111 : 4 
+deads2k : 58 : 0 
+roycaihw : 16 : 0 
+yue9944882 : 28 : 0 
+
+
+>>>>> Missing Contributions in kubernetes/kubernetes (devstats == 0): 3
+alexzielenski
+api-approvers
+api-reviewers
+
+
+>>>>> Low reviews/approvals in kubernetes/apiextensions-api (GH pr comments <= 10 && devstats <=20): 1
+roycaihw
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

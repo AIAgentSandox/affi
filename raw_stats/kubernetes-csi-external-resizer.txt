@@ -1,0 +1,40 @@
+
+--- COMMAND: /home/sergeykanzhelev/.local/share/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/external-resizer --repository-devstats=kubernetes-csi/external-resizer --period-devstats=y --dryrun ---
+Running script : 11-24-2026 19:00:52
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-resizer/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-resizer/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-resizer/OWNERS_ALIASES
+Found 2 unique aliases
+Found 16 unique users
+.......
+
+
+>>>>> Contributions from kubernetes-csi/external-resizer devstats repo and kubernetes-csi/external-resizer github repo : 7
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+gnufied : 30 : 18 
+andyzhangx : 17 : 4 
+xing-yang : 10 : 15 
+jsafrane : 5 : 13 
+sunnylovestiramisu : 5 : 3 
+carlory : 3 : 2 
+humblec : 1 : 0 
+
+
+>>>>> Missing Contributions in kubernetes-csi/external-resizer (devstats == 0): 9
+RaunakShah
+ggriffiths
+j-griffith
+jingxu97
+mauriciopoppe
+mlmhl
+msau42
+pohly
+saad-ali
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/external-resizer (GH pr comments <= 10 && devstats <=20): 4
+andyzhangx
+carlory
+humblec
+sunnylovestiramisu
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

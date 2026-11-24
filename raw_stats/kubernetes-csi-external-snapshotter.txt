@@ -1,0 +1,40 @@
+
+--- COMMAND: /home/sergeykanzhelev/.local/share/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/external-snapshotter --repository-devstats=kubernetes-csi/external-snapshotter --period-devstats=y --dryrun ---
+Running script : 11-24-2026 19:29:18
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-snapshotter/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-snapshotter/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-snapshotter/OWNERS_ALIASES
+Found 2 unique aliases
+Found 16 unique users
+......
+
+
+>>>>> Contributions from kubernetes-csi/external-snapshotter devstats repo and kubernetes-csi/external-snapshotter github repo : 6
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+xing-yang : 81 : 52 
+jsafrane : 43 : 34 
+andyzhangx : 19 : 8 
+humblec : 9 : 5 
+carlory : 2 : 4 
+mauriciopoppe : 1 : 6 
+
+
+>>>>> Missing Contributions in kubernetes-csi/external-snapshotter (devstats == 0): 10
+RaunakShah
+ggriffiths
+gnufied
+j-griffith
+jingxu97
+msau42
+pohly
+saad-ali
+sunnylovestiramisu
+yuxiangqian
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/external-snapshotter (GH pr comments <= 10 && devstats <=20): 4
+andyzhangx
+carlory
+humblec
+mauriciopoppe
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

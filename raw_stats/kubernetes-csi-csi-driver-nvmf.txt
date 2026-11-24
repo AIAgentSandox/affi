@@ -1,0 +1,36 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/csi-driver-nvmf --repository-devstats=kubernetes-csi/csi-driver-nvmf --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:53:45
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_csi-driver-nvmf/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_csi-driver-nvmf/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_csi-driver-nvmf/OWNERS_ALIASES
+Found 2 unique aliases
+Found 16 unique users
+
+
+
+>>>>> Contributions from kubernetes-csi/csi-driver-nvmf devstats repo and kubernetes-csi/csi-driver-nvmf github repo : 0
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+
+
+>>>>> Missing Contributions in kubernetes-csi/csi-driver-nvmf (devstats == 0): 16
+RaunakShah
+andyzhangx
+carlory
+ggriffiths
+gnufied
+humblec
+j-griffith
+jingxu97
+jsafrane
+mauriciopoppe
+meinhardzhou
+msau42
+pohly
+saad-ali
+sunnylovestiramisu
+xing-yang
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/csi-driver-nvmf (GH pr comments <= 10 && devstats <=20): 0
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

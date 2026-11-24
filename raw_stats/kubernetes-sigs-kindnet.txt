@@ -1,0 +1,24 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/kindnet --repository-devstats=kubernetes-sigs/kindnet --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:42:01
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kindnet/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_kindnet/OWNERS_ALIASES
+Found 0 unique aliases
+Found 5 unique users
+..
+
+
+>>>>> Contributions from kubernetes-sigs/kindnet devstats repo and kubernetes-sigs/kindnet github repo : 2
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+aojea : 93 : 77 
+stmcginnis : 50 : 125 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/kindnet (devstats == 0): 3
+bentheelder
+danwinship
+thockin
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/kindnet (GH pr comments <= 10 && devstats <=20): 0
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

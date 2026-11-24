@@ -1,0 +1,38 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/csi-driver-host-path --repository-devstats=kubernetes-csi/csi-driver-host-path --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:53:19
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_csi-driver-host-path/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_csi-driver-host-path/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-csi_csi-driver-host-path/OWNERS_ALIASES
+Found 2 unique aliases
+Found 15 unique users
+.....
+
+
+>>>>> Contributions from kubernetes-csi/csi-driver-host-path devstats repo and kubernetes-csi/csi-driver-host-path github repo : 5
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+jsafrane : 20 : 16 
+xing-yang : 17 : 13 
+carlory : 3 : 3 
+gnufied : 8 : 2 
+humblec : 8 : 6 
+
+
+>>>>> Missing Contributions in kubernetes-csi/csi-driver-host-path (devstats == 0): 10
+RaunakShah
+andyzhangx
+ggriffiths
+j-griffith
+jingxu97
+mauriciopoppe
+msau42
+pohly
+saad-ali
+sunnylovestiramisu
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/csi-driver-host-path (GH pr comments <= 10 && devstats <=20): 3
+carlory
+gnufied
+humblec
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

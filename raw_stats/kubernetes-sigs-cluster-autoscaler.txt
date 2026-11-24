@@ -1,0 +1,34 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/cluster-autoscaler --repository-devstats=kubernetes-sigs/cluster-autoscaler --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:37:32
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_cluster-autoscaler/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_cluster-autoscaler/pkg/cloudprovider/kwok/OWNERS
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_cluster-autoscaler/OWNERS_ALIASES
+Found 1 unique aliases
+Found 11 unique users
+..........
+
+
+>>>>> Contributions from kubernetes-sigs/cluster-autoscaler devstats repo and kubernetes-sigs/cluster-autoscaler github repo : 10
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+BigDarkClown : 174 : 108 
+Choraden : 365 : 62 
+jackfrancis : 242 : 67 
+norbertcyran : 400 : 33 
+mtrqq : 102 : 24 
+towca : 164 : 24 
+x13n : 43 : 9 
+aleksandra-malinowska : 5 : 4 
+adrianmoisey : 1 : 1 
+vadasambar : 1 : 1 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/cluster-autoscaler (devstats == 0): 1
+omerap12
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/cluster-autoscaler (GH pr comments <= 10 && devstats <=20): 3
+adrianmoisey
+aleksandra-malinowska
+vadasambar
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

@@ -1,0 +1,22 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/node-local-dns --repository-devstats=kubernetes-sigs/node-local-dns --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:44:39
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_node-local-dns/OWNERS
+Found 0 unique aliases
+Found 3 unique users
+.......
+
+
+>>>>> Contributions from kubernetes-sigs/node-local-dns devstats repo and kubernetes-sigs/node-local-dns github repo : 2
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+bowei : 38 : 13 
+DamianSawicki : 9 : 9 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/node-local-dns (devstats == 0): 1
+mrhohn
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/node-local-dns (GH pr comments <= 10 && devstats <=20): 1
+DamianSawicki
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

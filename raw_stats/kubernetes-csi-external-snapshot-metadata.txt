@@ -1,0 +1,43 @@
+
+--- COMMAND: /home/sergeykanzhelev/.local/share/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/external-snapshot-metadata --repository-devstats=kubernetes-csi/external-snapshot-metadata --period-devstats=y --dryrun ---
+Running script : 11-24-2026 19:01:12
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-snapshot-metadata/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-snapshot-metadata/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_external-snapshot-metadata/OWNERS_ALIASES
+Found 2 unique aliases
+Found 20 unique users
+.............
+
+
+>>>>> Contributions from kubernetes-csi/external-snapshot-metadata devstats repo and kubernetes-csi/external-snapshot-metadata github repo : 6
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+rakshith-r(Rakshith-R) : 29 : 37 
+PrasadG193 : 19 : 20 
+xing-yang : 10 : 13 
+carlbraganza : 9 : 4 
+jsafrane : 3 : 5 
+humblec : 2 : 1 
+
+
+>>>>> Missing Contributions in kubernetes-csi/external-snapshot-metadata (devstats == 0): 14
+RaunakShah
+andyzhangx
+carlory
+ggriffiths
+gnufied
+hairyhum
+ihcsim
+j-griffith
+jingxu97
+mauriciopoppe
+msau42
+pohly
+saad-ali
+sunnylovestiramisu
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/external-snapshot-metadata (GH pr comments <= 10 && devstats <=20): 3
+carlbraganza
+humblec
+jsafrane
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

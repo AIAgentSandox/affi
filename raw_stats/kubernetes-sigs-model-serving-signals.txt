@@ -1,0 +1,22 @@
+
+--- COMMAND: /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/bin/maintainers prune --repository-github=kubernetes-sigs/model-serving-signals --repository-devstats=kubernetes-sigs/model-serving-signals --period-devstats=y --dryrun ---
+Running script : 11-24-2026 18:44:24
+Processed /home/sergeykanzhelev/.tmp/claude-1000/-home-sergeykanzhelev--worktrees-SergeyKanzhelev-affi-wip--20261124-174800/4709dc84-fe82-416b-967c-7555d6cde44a/scratchpad/affi-data/clones/kubernetes-sigs_model-serving-signals/OWNERS
+Found 0 unique aliases
+Found 3 unique users
+...
+
+
+>>>>> Contributions from kubernetes-sigs/model-serving-signals devstats repo and kubernetes-sigs/model-serving-signals github repo : 3
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+nirrozenbaum : 222 : 26 
+omerap12 : 157 : 30 
+jackfrancis : 3 : 2 
+
+
+>>>>> Missing Contributions in kubernetes-sigs/model-serving-signals (devstats == 0): 0
+
+
+>>>>> Low reviews/approvals in kubernetes-sigs/model-serving-signals (GH pr comments <= 10 && devstats <=20): 1
+jackfrancis
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

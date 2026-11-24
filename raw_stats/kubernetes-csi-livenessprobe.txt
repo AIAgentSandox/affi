@@ -1,0 +1,38 @@
+
+--- COMMAND: /home/sergeykanzhelev/.local/share/affi-data/bin/maintainers prune --repository-github=kubernetes-csi/livenessprobe --repository-devstats=kubernetes-csi/livenessprobe --period-devstats=y --dryrun ---
+Running script : 11-24-2026 19:30:24
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_livenessprobe/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_livenessprobe/release-tools/OWNERS
+Processed /home/sergeykanzhelev/.local/share/affi-data/clones/kubernetes-csi_livenessprobe/OWNERS_ALIASES
+Found 2 unique aliases
+Found 15 unique users
+....
+
+
+>>>>> Contributions from kubernetes-csi/livenessprobe devstats repo and kubernetes-csi/livenessprobe github repo : 4
+>>>>> GitHub ID : Devstats contrib count : GitHub PR comment count
+jsafrane : 36 : 36 
+andyzhangx : 13 : 8 
+xing-yang : 6 : 7 
+humblec : 2 : 0 
+
+
+>>>>> Missing Contributions in kubernetes-csi/livenessprobe (devstats == 0): 11
+RaunakShah
+carlory
+ggriffiths
+gnufied
+j-griffith
+jingxu97
+mauriciopoppe
+msau42
+pohly
+saad-ali
+sunnylovestiramisu
+
+
+>>>>> Low reviews/approvals in kubernetes-csi/livenessprobe (GH pr comments <= 10 && devstats <=20): 3
+andyzhangx
+humblec
+xing-yang
+--dryrun is set to true, will skip updating OWNERS and OWNER_ALIASES

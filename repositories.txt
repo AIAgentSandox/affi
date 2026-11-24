@@ -16,6 +16,7 @@ kubernetes-csi/external-provisioner
 kubernetes-csi/external-resizer
 kubernetes-csi/external-snapshot-metadata
 kubernetes-csi/external-snapshotter
+kubernetes-csi/kubernetes-csi
 kubernetes-csi/kubernetes-csi.github.io
 kubernetes-csi/lib-volume-populator
 kubernetes-csi/livenessprobe
@@ -26,6 +27,7 @@ kubernetes-sigs/about-api
 kubernetes-sigs/admission-policies
 kubernetes-sigs/agent-sandbox
 kubernetes-sigs/ai-conformance
+kubernetes-sigs/ai-gateway
 kubernetes-sigs/alibaba-cloud-csi-driver
 kubernetes-sigs/apiserver-builder-alpha
 kubernetes-sigs/apiserver-network-proxy
@@ -50,7 +52,6 @@ kubernetes-sigs/cli-experimental
 kubernetes-sigs/cli-utils
 kubernetes-sigs/clientgofix
 kubernetes-sigs/cloud-provider-azure
-kubernetes-sigs/cloud-provider-equinix-metal
 kubernetes-sigs/cloud-provider-huaweicloud
 kubernetes-sigs/cloud-provider-kind
 kubernetes-sigs/cloud-pv-admission-labeler
@@ -69,6 +70,7 @@ kubernetes-sigs/cluster-api-provider-kubemark
 kubernetes-sigs/cluster-api-provider-kubevirt
 kubernetes-sigs/cluster-api-provider-openstack
 kubernetes-sigs/cluster-api-provider-vsphere
+kubernetes-sigs/cluster-autoscaler
 kubernetes-sigs/cluster-capacity
 kubernetes-sigs/cluster-inventory-api
 kubernetes-sigs/cluster-proportional-autoscaler
@@ -86,9 +88,12 @@ kubernetes-sigs/custom-metrics-apiserver
 kubernetes-sigs/cve-feed-osv
 kubernetes-sigs/depstat
 kubernetes-sigs/descheduler
+kubernetes-sigs/devops-bench
 kubernetes-sigs/discuss-theme
 kubernetes-sigs/downloadkubernetes
 kubernetes-sigs/dra-driver-cpu
+kubernetes-sigs/dra-driver-google-tpu
+kubernetes-sigs/dra-driver-nvidia-gpu
 kubernetes-sigs/dra-driver-topology
 kubernetes-sigs/dra-example-driver
 kubernetes-sigs/dranet
@@ -96,8 +101,8 @@ kubernetes-sigs/e2e-framework
 kubernetes-sigs/etcd-manager
 kubernetes-sigs/execution-hook
 kubernetes-sigs/external-dns
-kubernetes-sigs/externalip-webhook
 kubernetes-sigs/gateway-api
+kubernetes-sigs/gateway-api-conformance-images
 kubernetes-sigs/gateway-api-inference-extension
 kubernetes-sigs/gcp-compute-persistent-disk-csi-driver
 kubernetes-sigs/gcp-filestore-csi-driver
@@ -131,6 +136,7 @@ kubernetes-sigs/krew
 kubernetes-sigs/krew-index
 kubernetes-sigs/kro
 kubernetes-sigs/kube-agentic-networking
+kubernetes-sigs/kube-agents
 kubernetes-sigs/kube-api-linter
 kubernetes-sigs/kube-network-policies
 kubernetes-sigs/kube-scheduler-simulator
@@ -141,6 +147,7 @@ kubernetes-sigs/kubebuilder-declarative-pattern
 kubernetes-sigs/kubebuilder-release-tools
 kubernetes-sigs/kubectl-check-ownerreferences
 kubernetes-sigs/kubectl-validate
+kubernetes-sigs/kubernetes-mixin
 kubernetes-sigs/kubernetes-network-drivers
 kubernetes-sigs/kubespray
 kubernetes-sigs/kubetest2
@@ -161,6 +168,7 @@ kubernetes-sigs/metrics-server
 kubernetes-sigs/minikube-gui
 kubernetes-sigs/minikube-os
 kubernetes-sigs/minikube-preloads
+kubernetes-sigs/model-serving-signals
 kubernetes-sigs/multi-network
 kubernetes-sigs/multi-network-api
 kubernetes-sigs/multicluster-runtime
@@ -172,9 +180,9 @@ kubernetes-sigs/nfs-subdir-external-provisioner
 kubernetes-sigs/node-feature-discovery
 kubernetes-sigs/node-feature-discovery-operator
 kubernetes-sigs/node-ipam-controller
+kubernetes-sigs/node-local-dns
 kubernetes-sigs/node-readiness-controller
 kubernetes-sigs/noderesourcetopology-api
-kubernetes-sigs/nvidia-dra-driver-gpu
 kubernetes-sigs/obscli
 kubernetes-sigs/porche
 kubernetes-sigs/prometheus-adapter
@@ -191,9 +199,11 @@ kubernetes-sigs/release-sdk
 kubernetes-sigs/release-team-shadow-stats
 kubernetes-sigs/release-utils
 kubernetes-sigs/resource-state-metrics
+kubernetes-sigs/scheduler-library
 kubernetes-sigs/scheduler-plugins
 kubernetes-sigs/secrets-store-csi-driver
 kubernetes-sigs/secrets-store-sync-controller
+kubernetes-sigs/security-profiles-merger
 kubernetes-sigs/security-profiles-operator
 kubernetes-sigs/sig-auth-tools
 kubernetes-sigs/sig-multicluster-site
@@ -211,18 +221,18 @@ kubernetes-sigs/testgrid-json-exporter
 kubernetes-sigs/usage-metrics-collector
 kubernetes-sigs/verify-conformance
 kubernetes-sigs/vsphere-csi-driver
-kubernetes-sigs/wg-ai-gateway
 kubernetes-sigs/wg-device-management
-kubernetes-sigs/wg-serving
 kubernetes-sigs/windows-gmsa
 kubernetes-sigs/windows-operational-readiness
 kubernetes-sigs/windows-service-proxy
 kubernetes-sigs/windows-testing
 kubernetes-sigs/work-api
+kubernetes-sigs/workload-class
 kubernetes-sigs/yaml
 kubernetes-sigs/zeitgeist
 kubernetes/.github
 kubernetes/api
+kubernetes/apiextensions-api
 kubernetes/apiextensions-apiserver
 kubernetes/apimachinery
 kubernetes/apiserver
@@ -235,7 +245,6 @@ kubernetes/cloud-provider-alibaba-cloud
 kubernetes/cloud-provider-aws
 kubernetes/cloud-provider-gcp
 kubernetes/cloud-provider-openstack
-kubernetes/cloud-provider-sample
 kubernetes/cloud-provider-vsphere
 kubernetes/cluster-bootstrap
 kubernetes/code-generator
@@ -263,6 +272,7 @@ kubernetes/klog
 kubernetes/kms
 kubernetes/kompose
 kubernetes/kops
+kubernetes/ktesting
 kubernetes/kube-aggregator
 kubernetes/kube-controller-manager
 kubernetes/kube-openapi
